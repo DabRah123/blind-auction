@@ -41,10 +41,3 @@ The program is divided into two files:
 1. **`asciiart.py`**: Contains the ASCII art logo.
 2. **`main.py`**: Implements the main functionality of the bidding program.
 
----
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/auction-bidding.git
